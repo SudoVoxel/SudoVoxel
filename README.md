@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**SudoVoxel/SudoVoxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, <s>world</s> I'm Voxel</h1>
+<h4 align="center">occasionally a skilled software developer.</h4>
 
-Here are some ideas to get you started:
+Im a (barely) experienced software developer who is interested in back end development.
+Im learning:
+* [Rust](https://www.rust-lang.org/)
+* [Bevy](https://bevyengine.org/)
+* How to exit Vim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+

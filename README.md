@@ -20,7 +20,4 @@ Currently learning:
 * Kernel Development
 * How to exit vim :)
 
-
-
-
-
+![Voxel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudovoxel&show_icons=true&theme=tokyonight&show_icons=true&hide_border=true)

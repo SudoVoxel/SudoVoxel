@@ -1,28 +1,24 @@
 
 <h1 align="center">Hello, <s>world</s> I'm Voxel</h1>
-<h4 align="center">occasionally a <s>skilled</s> programmer.</h4>
-<h4 align="center">"Make it Run, Make it Right, Make it Really Fucking Fast"</h4>
+<h4 align="center">occasionally a programmer.</h4>
+<h4 align="center">"Make it Run, Make it Right, Make it Really Fast"</h4>
 
 ***
 
-A (barely) experienced programmer tinkering in embedded systems, graphics programming, and robotics.
+An "experienced" programmer tinkering in robotics, embedded systems, and graphics programming.
 
-Extensive Programming experience in Java and C.
+Extensive programming experience in Java with a deep understanding of algorithms and data structures.
 
-conversational experience in:
-* C++
+Moderate experience in:
 * C#
-* Javascript
-* Python
 * Rust
+* C
+* C++
 
-
-
-
-Im currently learning:
-* Rust
-* System design
-* How to exit vim
+Currently learning:
+* [WPILIB](https://github.com/wpilibsuite/allwpilib)
+* Kernel Development
+* How to exit vim :)
 
 
 

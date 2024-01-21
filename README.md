@@ -20,4 +20,6 @@ Currently learning:
 * Kernel Development
 * How to exit vim :)
 
-![Voxel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudovoxel&show_icons=true&theme=tokyonight&show_icons=true&hide_border=true)
+
+
+[![Voxel's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@SudoVoxel&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -9,11 +9,14 @@ An "experienced" programmer tinkering in robotics, embedded systems, and graphic
 
 Extensive programming experience in Java with a deep understanding of algorithms and data structures.
 
-Moderate experience in:
+Experienced in:
 * C#
-* Rust
 * C
 * C++
+* Java
+* Rust
+* Algorithms and Data Structures
+
 
 Currently learning:
 * [WPILIB](https://github.com/wpilibsuite/allwpilib)

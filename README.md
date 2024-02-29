@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, <s>world</s> I'm rechs</h1>
 <h4 align="center">occasionally a programmer.</h4>
-<h4 align="center">"Make it Run, Make it Right, Make it Really Fast"</h4>
+<h4 align="center">"Software man with no qualms yelling at people"</h4>
 
 ***
 
